@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T14:31:40.714Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="y8LhBLYr5QVeG0xL08e_" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T14:33:02.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="D5DINT20r7LKnNu46JEe" version="13.9.2" type="github">
   <diagram id="Xuyy6AfVwZVGyWw7SfYj" name="Page-1">
-    <mxGraphModel dx="10100" dy="4779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2020" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="26" y="143" width="1604" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JgnCPHGrmHkcHbB0CMik-20" value="Mairie" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="26" y="163" width="1604" height="350" as="geometry">
+          <mxGeometry x="27" y="137" width="1604" height="377" as="geometry">
             <mxRectangle y="-80" width="30" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -23,6 +23,9 @@
         </mxCell>
         <mxCell id="JgnCPHGrmHkcHbB0CMik-80" value="Besoins du journal en terme d&#39;espace" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JgnCPHGrmHkcHbB0CMik-20">
           <mxGeometry x="47" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JgnCPHGrmHkcHbB0CMik-82" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=parallelGw;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="JgnCPHGrmHkcHbB0CMik-20">
+          <mxGeometry x="1359" y="327" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JgnCPHGrmHkcHbB0CMik-19" value="Rédacteur" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="26" y="513" width="1604" height="357" as="geometry" />
